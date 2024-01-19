@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on a lot of projects as a back-end developer
 - 📫 How to reach me: evvent.horizon@gmail.com
 - 😄 Pronouns: they/it/any
-- ⚡ Fun fact: for a long time coelacanths thought to be instinct until a museum curator found a specimen on a local market at the coast of Chalumna river
+- ⚡ Fun fact: for a long time coelacanths thought to be instinct for 66 million years until a museum curator found a specimen on a local market at the coast of Chalumna river
