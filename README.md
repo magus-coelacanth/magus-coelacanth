@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magus-coelacanth
 - 👀 I’m interested in art, history and literature
-- 🌱 I’m currently learning Python web development
+- 🌱 I’m currently learning Go web development
 - 💞️ I’m looking to collaborate on a lot of projects as a back-end developer
 - 📫 How to reach me: evvent.horizon@gmail.com
 - 😄 Pronouns: they/it/any
